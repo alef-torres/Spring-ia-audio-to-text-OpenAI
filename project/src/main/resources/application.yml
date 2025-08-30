@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: project
+  ai:
+    openai:
+      api-key: ${CHAVE_TESTE}
